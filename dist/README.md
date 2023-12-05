@@ -1,3 +1,3 @@
 This is a demo site
 
-[![Deploy to Netlify](https://www.netlify/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/fallallin/netlify-demo-ci)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/fallallin/netlify-demo-ci)
